@@ -1,0 +1,1 @@
+web: gunicorn nome_do_arquivo_da_sua_aplicacao:app
