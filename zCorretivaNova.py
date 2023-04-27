@@ -1,1 +1,2 @@
-print("hello word funcionaaaa")
+file = 1
+file
