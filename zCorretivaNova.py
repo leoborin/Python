@@ -2,7 +2,7 @@ import pandas as pd
 import requests
 import json
 
-ggg = 100
+ggg = 10032312312
 dados = "Vazio"
 cursor = 0
 cursorstr = str(cursor)
